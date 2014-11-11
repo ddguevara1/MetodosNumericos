@@ -1,6 +1,6 @@
 MetodosNumericos
 ================
-
+/*
 PrimerParcial
 
 %Polinomio
@@ -180,3 +180,4 @@ polinomioderivado=[];
      fprintf('la opción es incorrecta ingrese nuevamente:' );
 end
 
+*/
